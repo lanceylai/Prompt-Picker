@@ -1,0 +1,19 @@
+name: User feedback
+description: Share general feedback
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      placeholder: Tell us what you think.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      placeholder: Add screenshots, links, or details if helpful.
+    validations:
+      required: false
