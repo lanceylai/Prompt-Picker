@@ -1,4 +1,6 @@
-# <img src="assets/icon128.png" alt="Prompt Picker icon" width="40" height="40" /> Prompt Picker
+<p align="center">
+  <img src="assets/promptpicker.svg" alt="Prompt Picker" width="360" />
+</p>
 
 **语言：** [English](README.md) | 简体中文 | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
