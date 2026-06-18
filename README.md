@@ -8,7 +8,7 @@ Prompt Picker is a Chrome extension that helps product managers and engineers tu
 
 Instead of describing a UI change with vague words like "the button on the right side of the card", you can click the exact element on the page, add your change request, and copy a structured prompt for Claude Code, Codex, Cursor, or another AI coding agent.
 
-<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="20" height="20" /> Install Prompt Picker from the Chrome Web Store</a>
+<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="28" height="28" /> Install Prompt Picker from the Chrome Web Store</a>
 
 ## ✨ What It Does
 
@@ -64,4 +64,4 @@ Prompt Picker runs in your browser. It is designed to collect selected page cont
 
 ## 🚀 Install
 
-<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="20" height="20" /> Install Prompt Picker from the Chrome Web Store</a>
+<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="28" height="28" /> Install Prompt Picker from the Chrome Web Store</a>

@@ -8,7 +8,7 @@ Prompt Picker は、プロダクトマネージャーとエンジニアがペー
 
 「カード右側のボタン」のような曖昧な説明ではなく、ページ上の要素を直接クリックし、変更内容を書き、Claude Code、Codex、Cursor などに貼り付けられる構造化プロンプトをコピーできます。
 
-<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="20" height="20" /> Chrome Web Store から Prompt Picker をインストール</a>
+<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="28" height="28" /> Chrome Web Store から Prompt Picker をインストール</a>
 
 ## ✨ できること
 
@@ -64,4 +64,4 @@ Prompt Picker はブラウザ内で動作します。選択したページコン
 
 ## 🚀 インストール
 
-<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="20" height="20" /> Chrome Web Store から Prompt Picker をインストール</a>
+<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="28" height="28" /> Chrome Web Store から Prompt Picker をインストール</a>
