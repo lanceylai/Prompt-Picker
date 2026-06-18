@@ -1,4 +1,4 @@
-# Prompt Picker
+# <img src="assets/icon128.png" alt="Prompt Picker icon" width="40" height="40" /> Prompt Picker
 
 **Language:** English | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
@@ -6,9 +6,9 @@ Prompt Picker is a Chrome extension that helps product managers and engineers tu
 
 Instead of describing a UI change with vague words like "the button on the right side of the card", you can click the exact element on the page, add your change request, and copy a structured prompt for Claude Code, Codex, Cursor, or another AI coding agent.
 
-[Install Prompt Picker from the Chrome Web Store](https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg)
+<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="20" height="20" /> Install Prompt Picker from the Chrome Web Store</a>
 
-## What It Does
+## ✨ What It Does
 
 Prompt Picker lets you:
 
@@ -20,17 +20,14 @@ Prompt Picker lets you:
 
 ![Add instructions and copy the generated prompt](assets/guide_2.png)
 
-## Who It Is For
+## 👥 Who It Is For
 
-**Product managers**
+| Role | How Prompt Picker Helps |
+| --- | --- |
+| Product managers | Explain UI changes, interaction issues, or product suggestions clearly by selecting the exact page location. |
+| Engineers | Give AI coding tools precise context so they understand which element needs to change and where to search in the codebase. |
 
-Use Prompt Picker when you want to explain UI changes clearly without writing long screenshot annotations or ambiguous tickets.
-
-**Engineers**
-
-Use Prompt Picker when you want an AI coding agent to understand which page element needs to change and where to search in the codebase.
-
-## Common Use Cases
+## 💡 Common Use Cases
 
 - File a product feedback issue with exact UI context.
 - Ask an AI coding agent to update a selected button, card, menu, form, or section.
@@ -38,7 +35,7 @@ Use Prompt Picker when you want an AI coding agent to understand which page elem
 - Turn "this part feels wrong" into a more actionable prompt.
 - Work across multiple pages when a task involves a flow, not just one screen.
 
-## How To Use
+## 🧭 How To Use
 
 1. Install Prompt Picker from the Chrome Web Store.
 2. Open the web page you want to review.
@@ -48,7 +45,7 @@ Use Prompt Picker when you want an AI coding agent to understand which page elem
 6. Click **Pick & Copy**.
 7. Paste the copied prompt into your AI coding tool.
 
-## Why It Helps
+## 🎯 Why It Helps
 
 AI coding tools work better when they receive precise context. Prompt Picker gives them:
 
@@ -59,10 +56,10 @@ AI coding tools work better when they receive precise context. Prompt Picker giv
 
 This reduces back-and-forth between product and engineering, and helps AI agents make more targeted code changes.
 
-## Privacy
+## 🔒 Privacy
 
 Prompt Picker runs in your browser. It is designed to collect selected page context and copy it to your clipboard so you can decide where to paste it.
 
-## Install
+## 🚀 Install
 
-[Install Prompt Picker from the Chrome Web Store](https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg)
+<a href="https://chromewebstore.google.com/detail/prompt-picker/lgcmgmlbomeodhmikhiphmonogmfdeeg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Chrome_Web_Store_icon_2015.svg" alt="Chrome Web Store" width="20" height="20" /> Install Prompt Picker from the Chrome Web Store</a>
