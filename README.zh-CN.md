@@ -20,7 +20,9 @@ Prompt Picker 可以帮助你：
 
 ![使用 Prompt Picker 在页面上直接选择元素](assets/guide_1.png)
 
-![填写修改说明并复制生成的 prompt](assets/guide_2.png)
+![填写修改说明、复制生成的 prompt](assets/guide_2.png)
+
+![并粘贴到 AI 编程工具](assets/guide_3.png)
 
 ## 👥 适合谁使用
 

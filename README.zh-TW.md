@@ -20,7 +20,9 @@ Prompt Picker 可以幫助你：
 
 ![使用 Prompt Picker 在頁面上直接選擇元素](assets/guide_1.png)
 
-![填寫修改說明並複製產生的 prompt](assets/guide_2.png)
+![填寫修改說明、複製產生的 prompt](assets/guide_2.png)
+
+![並貼到 AI 編程工具](assets/guide_3.png)
 
 ## 👥 適合誰使用
 

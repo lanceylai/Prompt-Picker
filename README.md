@@ -22,6 +22,8 @@ Prompt Picker lets you:
 
 ![Add instructions and copy the generated prompt](assets/guide_2.png)
 
+![Paste it into an AI coding tool](assets/guide_3.png)
+
 ## 👥 Who It Is For
 
 | Role | How Prompt Picker Helps |

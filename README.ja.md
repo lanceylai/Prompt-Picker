@@ -2,7 +2,7 @@
   <img src="assets/promptpicker.svg" alt="Prompt Picker" width="360" />
 </p>
 
-**Language:** [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | 日本語 | [한국어](README.ko.md)
+**言語:** [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | 日本語 | [한국어](README.ko.md)
 
 Prompt Picker は、プロダクトマネージャーとエンジニアがページ上で変更が必要な内容を、AI コーディング向けの明確で実行可能なプロンプトに変換するための Chrome 拡張機能です。
 
@@ -20,7 +20,9 @@ Prompt Picker では次のことができます。
 
 ![Prompt Picker でページ上の要素を直接選択する](assets/guide_1.png)
 
-![変更指示を書いて生成されたプロンプトをコピーする](assets/guide_2.png)
+![変更指示を書き、生成されたプロンプトをコピーする](assets/guide_2.png)
+
+![AI コーディングツールに貼り付ける](assets/guide_3.png)
 
 ## 👥 対象ユーザー
 
