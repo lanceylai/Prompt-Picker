@@ -18,11 +18,11 @@ Prompt Picker 可以帮助你：
 2. 自动生成上下文 Prompt：生成包含 Selector、DOM 结构、组件信息和页面上下文的 AI Prompt。
 3. 提升 AI 修改成功率：帮助 AI Agent 快速找到对应代码，减少反复沟通，提高修改准确率。
 
-![使用 Prompt Picker 在页面上直接选择元素](assets/guide_1.png)
+![使用 Prompt Picker 在页面上直接选择元素](assets/show_guide_1.png)
 
-![填写修改说明、复制生成的 prompt](assets/guide_2.png)
+![填写修改说明、复制生成的 prompt](assets/show_guide_2.png)
 
-![并粘贴到 AI 编程工具](assets/guide_3.png)
+![并粘贴到 AI 编程工具](assets/show_guide_3.png)
 
 ## 👥 适合谁使用
 
