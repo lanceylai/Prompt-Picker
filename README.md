@@ -18,12 +18,8 @@ Prompt Picker lets you:
 2. Automatically generate a contextual Prompt: generate an AI Prompt with Selector, DOM structure, component information, and page context.
 3. Improve AI change success rate: help AI Agents quickly find the corresponding code, reduce back-and-forth, and improve change accuracy.
 
-<video src="assets/prompt_picker_guide.mp4"
-       loop
-       muted
-       playsinline
-       controls>
-</video>
+https://github.com/user-attachments/assets/ab6d7182-3828-4e95-bf88-0da89966430d
+
 
 ## 👥 Who It Is For
 
