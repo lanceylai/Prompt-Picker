@@ -18,11 +18,12 @@ Prompt Picker では次のことができます。
 2. コンテキスト付き Prompt を自動生成：Selector、DOM 構造、コンポーネント情報、ページコンテキストを含む AI Prompt を生成できます。
 3. AI による変更の成功率を高める：AI Agent が対応するコードを素早く見つけられるようにし、やり取りを減らして変更の精度を高めます。
 
-![Prompt Picker でページ上の要素を直接選択する](assets/show_guide_1.png)
-
-![変更指示を書き、生成されたプロンプトをコピーする](assets/show_guide_2.png)
-
-![AI コーディングツールに貼り付ける](assets/show_guide_3.png)
+<video src="assets/prompt_picker_guide.mp4"
+       loop
+       muted
+       playsinline
+       controls>
+</video>
 
 ## 👥 対象ユーザー
 

@@ -18,11 +18,12 @@ Prompt Picker는 다음을 도와줍니다.
 2. 컨텍스트 Prompt 자동 생성: Selector, DOM 구조, 컴포넌트 정보, 페이지 컨텍스트가 포함된 AI Prompt를 생성합니다.
 3. AI 수정 성공률 향상: AI Agent가 해당 코드를 빠르게 찾도록 돕고, 반복 커뮤니케이션을 줄이며 수정 정확도를 높입니다.
 
-![Prompt Picker로 페이지에서 요소를 직접 선택하기](assets/show_guide_1.png)
-
-![변경 요청을 작성하고 생성된 프롬프트 복사하기](assets/show_guide_2.png)
-
-![AI 코딩 도구에 붙여넣기](assets/show_guide_3.png)
+<video src="assets/prompt_picker_guide.mp4"
+       loop
+       muted
+       playsinline
+       controls>
+</video>
 
 ## 👥 누구에게 유용한가요?
 
